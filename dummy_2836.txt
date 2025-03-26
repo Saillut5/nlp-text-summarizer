@@ -1,1 +1,2 @@
 Commit on 2024-12-03 00:00:00: docs: Elaborate on installation instructions
+Commit on 2025-03-26 00:00:00: chore: Automate release process
